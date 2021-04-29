@@ -7,4 +7,4 @@
 <li>Create a button for copy the css code border radius </li>
 <li>Responsive design</li>
 
-<a href="https://juangomes404.github.io/Border-Radius-Generator/"><h1 align="center">Link for Border Radius Previewer and Generator</h1></a>
+<a href="https://juangomes404.github.io/Border-Radius-Generator/" target="_blank"><h1 align="center">Link for Border Radius Previewer and Generator</h1></a>
